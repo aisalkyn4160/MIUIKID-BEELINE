@@ -662,3 +662,11 @@ footer ul li {
   float: right;
 }
 /*# sourceMappingURL=style.css.map */
+
+.bag_img img{
+  width: 30%;
+  float: left;
+}
+.bag_info{
+  width: 70%;
+}
